@@ -1,3 +1,5 @@
 # starter-joey-thinkful
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+- built front-end lookalike of AirBnB static website with responsive views for mobile, desktop, and tablet
+- leveraged flexbox and other CSS tools for layout
+- made us of HTML, CSS, Flexbox
